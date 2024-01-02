@@ -1,0 +1,8 @@
+Client: Hello! Are you there?
+Freelancer: yes.I am available.
+Client: Hello! The initial designs you submitted were great and our team loved them.
+Freelancer: thank you.
+Client: Perfect. Could you provide us with a few more layout options for the homepage?
+Freelancer:Absolutely,
+Client: That sounds great. We have a tight deadline for this project, so your promptness 
+is much appreciated.

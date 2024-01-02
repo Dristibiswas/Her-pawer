@@ -1,0 +1,16 @@
+@media (max-width:400px){
+    .h{color: blueviolet;
+
+    }
+}
+@media (min-width:401px) and (max-width:1000px){
+    .h{color: brown;
+
+    }
+}
+@media (min-width:1001px){
+    .h{color: darkorange;
+
+    }
+}
+

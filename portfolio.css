@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+nav{
+    background-color: aqua;
+    height: 70px;
+}
+label{
+    font-size: 40px;
+}
+label a{
+    color: blueviolet;
+}
+nav ul li{
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 20px;
+}
+nav ul{
+    float: right;
+}
+nav ul li a{
+    padding: 7px;
+    color: brown;
+}
+nav ul li a:hover{
+padding: 7px;
+background: radius 6px; ;
+background-color: black;
+color: wheat;
+}
+body{
+    background-color:gray !important;
+}
+body h3{
+    font-size: 40px;
+    color: gold;
+    border:5px solid black;
+    background-color: palevioletred;
+    width: 200px;
+}
+body p,ul li {
+    color:white;
+    font-size:20px ;
+   
+}
+body{
+    background-color: brown;
+}

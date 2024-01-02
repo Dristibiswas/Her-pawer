@@ -1,0 +1,25 @@
+body
+
+    background-image: url(flower.jpg);
+    background-repeat: repeat-x ;
+    background-size: cover;
+}.
+
+CV{
+    color:blue;
+    font-size: 40px;
+    margin-left: 200px;
+}
+.my{
+    color: blue;
+    font-size: 40px;
+    margin-left: 300px;
+}
+.dristi{
+    color: blue;
+    background-color: pink;
+    border: 6px solid black;
+}
+.abcd{
+    font-size: 40px
+}
